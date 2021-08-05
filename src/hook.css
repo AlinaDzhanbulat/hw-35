@@ -1,0 +1,20 @@
+.container {
+    margin: auto;
+    margin-left: 500px;
+    text-align: center;
+    background-color: teal;
+    width: 300px;
+    height: 200px;
+}
+div {
+    font-weight: 300px;
+    color: white;
+
+}
+button {
+    padding: 5px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    border: none;
+}
